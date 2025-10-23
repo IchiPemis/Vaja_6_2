@@ -10,6 +10,9 @@ namespace Vaja_6_2
     {
         static void Main(string[] args)
         {
+            Pit_Trikotnik t = new Pit_Trikotnik(6, 8);
+            t.Ploscina();
+
 
         }
     }
